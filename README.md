@@ -4,6 +4,6 @@ Project on a dataset from a Cleveland Online database to determine the presence 
 
 Spark was used in stand-alone mode and the process was implemented with one Scala program (HeartDis.scala)
 
-# Load scala program inside the Spark shell
+## Load scala program inside the Spark shell
 
 :load HeartDis.scala
